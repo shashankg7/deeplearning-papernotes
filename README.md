@@ -1,7 +1,84 @@
+#### 2016-08
+
+- Temporal Attention Model for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1608.02927)]
+- Residual Networks of Residual Networks: Multilevel Residual Networks [[arXiv](http://arxiv.org/abs/1608.02908)]
+- [Learning Online Alignments with Continuous Rewards Policy Gradient](notes/online-alignments-pg.md) [[arXiv](https://arxiv.org/abs/1608.01281)]
+
+#### 2016-07
+
+- [An Actor-Critic Algorithm for Sequence Prediction](notes/actor-critic-sequence.md) [[arXiv](http://arxiv.org/abs/1607.07086)]
+- Cognitive Science in the era of Artificial Intelligence: A roadmap for reverse-engineering the infant language-learner [[arXiv](http://arxiv.org/abs/1607.08723v1)]
+- [Recurrent Neural Machine Translation](notes/recurrent-nmt.md) [[arXiv](http://arxiv.org/abs/1607.08725)]
+- MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition [[arXiv](http://arxiv.org/abs/1607.08221)]
+- [Layer Normalization](notes/layer-norm.md) [[arXiv](https://arxiv.org/abs/1607.06450)]
+- [Neural Machine Translation with Recurrent Attention Modeling](notes/nmt-rec-attention.md) [[arXiv](https://arxiv.org/abs/1607.05108)]
+- Neural Semantic Encoders [[arXiv](https://arxiv.org/abs/1607.04315)]
+- [Attention-over-Attention Neural Networks for Reading Comprehension](notes/att-over-att.md) [[arXiv](https://arxiv.org/abs/1607.04423)]
+- sk_p: a neural program corrector for MOOCs [[arXiv](http://arxiv.org/abs/1607.02902)]
+- Recurrent Highway Networks [[arXiv](https://arxiv.org/abs/1607.03474)]
+- Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/abs/1607.01759)]
+- Context-Dependent Word Representation for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1607.00578)]
+- Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arXiv](http://arxiv.org/abs/1607.00036)]
+
+#### 2016-06
+
+- Sequence-Level Knowledge Distillation [[arXiv](https://arxiv.org/abs/1606.07947)]
+- Policy Networks with Two-Stage Training for Dialogue Systems [[arXiv](http://arxiv.org/abs/1606.03152)]
+- Towards an integration of deep learning and neuroscience [[arXiv](https://arxiv.org/abs/1606.03813)]
+- On Multiplicative Integration with Recurrent Neural Networks [[arxiv](https://arxiv.org/abs/1606.06630)]
+- [Wide & Deep Learning for Recommender Systems](wide-and-deep.md) [[arXiv](https://arxiv.org/abs/1606.07792)]
+- Online and Offline Handwritten Chinese Character Recognition [[arXiv](https://arxiv.org/abs/1606.05763)]
+- Tutorial on Variational Autoencoders [[arXiv](http://arxiv.org/abs/1606.05908)]
+- Concrete Problems in AI Safety [[arXiv](https://arxiv.org/abs/1606.06565)]
+- Deep Reinforcement Learning Discovers Internal Models [[arXiv](http://arxiv.org/abs/1606.05174v1)]
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md) [[arXiv](http://arxiv.org/abs/1606.05250)]
+- Conditional Image Generation with PixelCNN Decoders [[arXiv](http://arxiv.org/abs/1606.05328)]
+- Model-Free Episodic Control [[arXiv](http://arxiv.org/abs/1606.04460)]
+- [Progressive Neural Networks](notes/progressive-nn.md) [[arXiv](http://arxiv.org/abs/1606.04671)]
+- Improved Techniques for Training GANs [[arXiv](http://arxiv.org/abs/1606.03498)])
+- Memory-Efficient Backpropagation Through Time [[arXiv](http://arxiv.org/abs/1606.03401)]
+- InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[arXiv](http://arxiv.org/abs/1606.03657)]
+- Zero-Resource Translation with Multi-Lingual Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.04164)]
+- Key-Value Memory Networks for Directly Reading Documents [[arXiv](http://arxiv.org/abs/1606.03126)]
+- Deep Recurrent Models with Fast-Forward Connections for Neural Machine Translatin [[arXiv](http://arxiv.org/abs/1606.04199)]
+- Learning to learn by gradient descent by gradient descent [[arXiv](http://arxiv.org/abs/1606.04474)]
+- Learning Language Games through Interaction [[arXiv](http://arxiv.org/abs/1606.02447)]
+- Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations [[arXiv](https://arxiv.org/abs/1606.01305)]
+- Smart Reply: Automated Response Suggestion for Email [[arXiv](http://arxiv.org/abs/1606.04870)]
+- Virtual Adversarial Training for Semi-Supervised Text Classification [[arXiv](https://arxiv.org/abs/1605.07725)]
+- Deep Reinforcement Learning for Dialogue Generation [[arXiv](http://arxiv.org/abs/1606.01541)]
+- Very Deep Convolutional Networks for Natural Language Processing [[arXiv](https://arxiv.org/abs/1606.01781)]
+- Neural Net Models for Open-Domain Discourse Coherence [[arXiv](https://arxiv.org/abs/1606.01545)]
+- Neural Architectures for Fine-grained Entity Type Classification [[arXiv](https://arxiv.org/abs/1606.01341)]
+- Gated-Attention Readers for Text Comprehension [[arXiv](http://arxiv.org/abs/1606.01549)]
+- [End-to-end LSTM-based dialog control optimized with supervised and reinforcement learning](notes/e2e-dialog-control-sl-rl.md) [[arXiv](https://arxiv.org/abs/1606.01269)]
+- Iterative Alternating Neural Attention for Machine Reading [[arXiv](https://arxiv.org/abs/1606.02245)]
+- Memory-enhanced Decoder for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1606.02003)]
+- Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
+- [Natural Language Comprehension with the EpiReader](notes/epireader.md) [[arXiv](https://arxiv.org/abs/1606.02270)]
+- Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
+
+- Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
+- Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
+
 #### 2016-05
 
+- Hierarchical Memory Networks [[arXiv](https://arxiv.org/abs/1605.07427)]
+- Deep API Learning [[arXiv](http://arxiv.org/abs/1605.08535)]
+- Wide Residual Networks [[arXiv](http://arxiv.org/abs/1605.07146)]
+- TensorFlow: A system for large-scale machine learning [[arXiv](http://arxiv.org/abs/1605.08695)]
+- Learning Natural Language Inference using Bidirectional LSTM model and Inner-Attention [[arXiv](http://arxiv.org/abs/1605.09090)]
+- Aspect Level Sentiment Classification with Deep Memory Network [[arXiv](http://arxiv.org/abs/1605.08900)]
+- FractalNet: Ultra-Deep Neural Networks without Residuals [[arXiv](https://arxiv.org/abs/1605.07648)]
+- Learning End-to-End Goal-Oriented Dialog [[arXiv](http://arxiv.org/abs/1605.07683)]
+- One-shot Learning with Memory-Augmented Neural Networks [[arXiv](http://arxiv.org/abs/1605.06065)]
+- Deep Learning without Poor Local Minima [[arXiv](http://arxiv.org/abs/1605.07110)]
 - AVEC 2016 - Depression, Mood, and Emotion Recognition Workshop and Challenge [[arXiv](https://arxiv.org/abs/1605.01600)]
-
+- Data Programming: Creating Large Training Sets, Quickly [[arXiv](http://arxiv.org/abs/1605.07723)]
+- Deeply-Fused Nets [[arXiv](http://arxiv.org/abs/1605.07716)]
+- Deep Portfolio Theory [[arXiv](http://arxiv.org/abs/1605.07230)]
+- Unsupervised Learning for Physical Interaction through Video Prediction [[arXiv](http://arxiv.org/abs/1605.07157)]
+- Movie Description [[arXiv](http://arxiv.org/abs/1605.03705)]
 
 
 #### 2016-04
@@ -28,13 +105,14 @@
 
 #### 2016-03
 
+- A Fast Unified Model for Parsing and Sentence Understanding [[arXiv](http://arxiv.org/abs/1603.06021)]
 - [Latent Predictor Networks for Code Generation](notes/latent-predictor-networks.md) [[arXiv](http://arxiv.org/abs/1603.06744)]
 - Attend, Infer, Repeat: Fast Scene Understanding with Generative Models [[arXiv](http://arxiv.org/abs/1603.08575)]
 - Recurrent Batch Normalization [[arXiv](http://arxiv.org/abs/1603.09025)]
 - Neural Language Correction with Character-Based Attention [[arXiv](http://arxiv.org/abs/1603.09727)]
-- Incorporating Copying Mechanism in Sequence-to-Sequence Learning [[arXiv](http://arxiv.org/abs/1603.06393)]
+- [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](notes/copynet.md) [[arXiv](http://arxiv.org/abs/1603.06393)]
 - How NOT To Evaluate Your Dialogue System [[arXiv](http://arxiv.org/abs/1603.08023)]
-- Adaptive Computation Time for Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1603.08983)]
+- [Adaptive Computation Time for Recurrent Neural Networks](notes/act-rnn.md) [[arXiv](http://arxiv.org/abs/1603.08983)]
 - A guide to convolution arithmetic for deep learning [[arXiv](http://arxiv.org/abs/1603.07285)]
 - Colorful Image Colorization [[arXiv](http://arxiv.org/abs/1603.08983)]
 - Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles [[arXiv](http://arxiv.org/abs/1603.09246)]
@@ -63,7 +141,7 @@
 - Extraction of Salient Sentences from Labelled Documents [[arXiv](http://arxiv.org/abs/1412.6815)]
 - Learning Distributed Representations of Sentences from Unlabelled Data [[arXiv](http://arxiv.org/abs/1602.03483)]
 - Benefits of depth in neural networks [[arXiv](http://arxiv.org/abs/1602.04485)]
-- Associative Long Short-Term Memory [[arXiv](http://arxiv.org/abs/1602.03032)]
+- [Associative Long Short-Term Memory](notes/associative-lstm.md) [[arXiv](http://arxiv.org/abs/1602.03032)]
 - Generating images with recurrent adversarial networks [[arXiv](http://arxiv.org/abs/1602.05110)]
 - [Exploring the Limits of Language Modeling](notes/exploring-the-limits-of-lm.md) [[arXiv](http://arxiv.org/abs/1602.02410)]
 - Swivel: Improving Embeddings by Noticing What’s Missing [[arXiv](http://arxiv.org/abs/1602.02215)]
@@ -111,6 +189,8 @@ Vision
 
 NLP
 
+- [Deep Reinforcement Learning with a Natural Language Action Space](notes/drl-nlp-action.md) [[arXiv](https://arxiv.org/abs/1511.04636)]
+- Sequence Level Training with Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1511.06732)]
 - [Teaching Machines to Read and Comprehend](notes/teaching-machines-to-read-and-comprehend.md) [[arxiv](http://arxiv.org/abs/1506.03340)]
 - [Semi-supervised Sequence Learning](notes/semi-supervised-sequence-learning.md) [[arXiv](http://arxiv.org/abs/1511.01432)]
 - [Multi-task Sequence to Sequence Learning](notes/multitask-seq2seq.md) [[arXiv](http://arxiv.org/abs/1511.06114)]
@@ -184,6 +264,7 @@ General
 
 #### 2015-06
 
+- Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning [[arXiv](https://arxiv.org/abs/1506.02142)]
 - [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](notes/nn-context-sentitive-responses.md) [[arXiv](http://arxiv.org/abs/1506.06714)]
 - [Document Embedding with Paragraph Vectors](notes/document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
 - [A Neural Conversational Model](notes/neural-conversational-model.md) [[arXiv](http://arxiv.org/abs/1506.05869)]
